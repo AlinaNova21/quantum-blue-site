@@ -1,0 +1,16 @@
+[Unit]
+Description=Webhook listener for Quantum Blue documentation
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory={{REPO_DIR}}/server
+ExecStart={{REPO_DIR}}/server/webhook -hooks {{REPO_DIR}}/server/hooks.json -port 9000 -verbose
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

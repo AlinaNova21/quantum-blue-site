@@ -21,3 +21,8 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Server webhook files (contain secrets)
+server/hooks.json
+server/webhook
+server/deploy.log
