@@ -1,0 +1,74 @@
+site_name: Quantum Blue Server
+site_description: Documentation Hub - Rules, Procedures, and Guidelines
+site_url: https://quantumblue.example.com
+
+theme:
+  name: material
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Rules:
+      - Overview: rules/index.md
+      - Community Rules: rules/community-rules.md
+      - Game Rules: rules/game-rules.md
+      - Role Guidelines: rules/role-rules.md
+      - Silicon Rules: rules/silicon-rules.md
+      - Alert Procedures: rules/alert-procedure.md
+  - SOP:
+      - Overview: sop/index.md
+      - Crimes & Sentencing: sop/crimes.md
+      - Controlled Items: sop/controlled-items.md
+      - Command: sop/command.md
+      - Security: sop/security.md
+      - Medical: sop/medical.md
+      - Epistemics: sop/epistemics.md
+      - Logistics: sop/logistics.md
+      - Service: sop/service.md
+      - Judicial: sop/judicial.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+extra_css: []
+extra_javascript: []
+
+docs_dir: docs
+site_dir: site
