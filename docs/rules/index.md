@@ -47,7 +47,3 @@ For players who are silicons, these Silicon Rules override all roleplay rules if
 - [S2. Your silicon laws are rules](silicon-rules.md)
 - [S3. Silicon Self-preservation](silicon-rules.md)
 - [S4. Stupid Orders](silicon-rules.md)
-
-## Alert Procedure {#alert-procedure}
-
-[View Alert Procedure Guidelines](alert-procedure.md)

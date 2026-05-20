@@ -49,11 +49,11 @@ Detailed procedures for crew rights, responsibilities, departmental operations, 
 <p>Station alert levels and emergency procedures</p>
 </div>
 <div class="dept-card" markdown="1">
-<h3><a href="sop/crimes/">⚖️ Space Law</a></h3>
+<h3><a href="sop/spacelaw.md">⚖️ Space Law</a></h3>
 <p>Crimes, sentencing, and controlled items</p>
 </div>
 <div class="dept-card" markdown="1">
-<h3><a href="sop/command/">🏢 Standard Operating Procedure</a></h3>
+<h3><a href="sop/sop.md">🏢 Standard Operating Procedure</a></h3>
 <p>Command, security, medical, and other department procedures</p>
 </div>
 </div>
