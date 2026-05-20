@@ -2,11 +2,11 @@
 
 Alert levels exist on the station to advise the crew at-large of the state of the station's overall security or well-being. Setting an alert level via the communications computer is an immediate action, so it is often done after sending a message to the crew.
 
-On Delta-V, there are some restrictions on when certain alert levels can be used. They should be somewhat intuitive, but they are elaborated on as follows:
+On Quantum Blue, there are some restrictions on when certain alert levels can be used. They should be somewhat intuitive, but they are elaborated on as follows:
 
-## Code Green {#code-green}
+## Code Green
 
-<p class="alert-description" style="color: #4caf50;">The normal operating procedure. There is no currently known threat to the ship, nor crew.</p>
+<span class="alert-description" style="color: #7cfc00;">The normal operating procedure. There is no currently known threat to the ship, nor crew.</span>
 
 - **Chain of Command (COC):** Commanding Officer (CO), Department Heads, Supervisory Roles
 - **Armory Policy:** Open carrying of long arms disallowed. Standard stab-and bullet-resistant equipment recommended for Security personnel.
@@ -16,9 +16,9 @@ On Delta-V, there are some restrictions on when certain alert levels can be used
 - **Engineering:** Report to supervisor for general orders.
 - **Rules of Engagement (ROE):** Engage with minimal force required; prioritize de-escalation whenever possible.
 
-## Code Blue {#code-blue}
+## Code Blue
 
-<p class="alert-description" style="color: #0000FF;">Elevated alert status. There is an ongoing, known, or suspected security threat to the NanoTrasen vessel or its crew.</p>
+<span class="alert-description" style="color: #0000FF;">Elevated alert status. There is an ongoing, known, or suspected security threat to the NanoTrasen vessel or its crew.</span>
 
 - **COC:** CO, Head of Security, Department Heads, Supervisory Roles
 - **Armory Policy:** Open carry of weaponry permitted for authorised entities. Body armour and helmets permitted for distribution to authorised personnel.
@@ -28,9 +28,9 @@ On Delta-V, there are some restrictions on when certain alert levels can be used
 - **Engineering:** EVA suits recommended for engineers. Make emergency internals easily accessible.
 - **ROE:** Engage with minimal force; non-lethal weapons may be used freely based on threat and compliance.
 
-## Code Red {#code-red}
+## Code Red
 
-<p class="alert-description" style="color: #ff0000;">Emergency alert status. There are multiple major emergency situations ongoing, or a major security emergency affecting the station.</p>
+<span class="alert-description" style="color: #ff0000;">Emergency alert status. There are multiple major emergency situations ongoing, or a major security emergency affecting the station.</span>
 
 - **COC:** CO, Head of Security, Security Personnel, Department Heads, Supervisory Roles
 - **Armory Policy:** Issuing of lethal weapons heavily recommended. Body armour and helmets permitted for distribution to authorised personnel.
@@ -40,21 +40,21 @@ On Delta-V, there are some restrictions on when certain alert levels can be used
 - **Engineering:** EVA suits heavily advised for engineers. Distribute emergency internals to crew.
 - **ROE:** Engage with adequate force to safely subdue suspects, dependent on threat and compliance. Lethal force is permitted to effect arrests against evasive targets.
 
-## Code Violet {#code-violet}
+## Code Violet
 
-<p class="alert-description" style="color: #7f00ff;">Elevated alert status. There is a serious viral outbreak, ongoing major death event, or there is another significant medical emergency.</p>
+<span class="alert-description" style="color: #7f00ff;">Elevated alert status. There is a serious viral outbreak, ongoing major death event, or there is another significant medical emergency.</span>
 
 - **COC:** CO, Chief Medical Officer, Medical Personnel, Department Heads, Supervisory Roles
-- **Armory Policy:** Issuing of lethal weapons disadvised. Standard stab-and bullet-resistant equipment recommended for Security personnel. Basic PPE highly recommended for all personnel, L3 biohazard gear advised.
+- **Armory Policy:** Issuing of lethal weapons highly situational. Standard stab-and bullet-resistant equipment recommended for Security personnel. Basic PPE highly recommended for all personnel, L3 biohazard gear advised.
 - **Discipline:** Report to supervisor for orders. Non-medical personnel should ensure they do not interfere with medical staff, may assist where applicable, obey all applicable orders from medical personnel. Security should seek to aid medical staff in enforcement of quarantine procedures or medical treatment as necessary.
 - **Secure Areas:** Secure areas unlocked and accessible to all authorized personnel. High Security Areas and areas with an expectation of privacy, such as bedrooms, dorms, or medical treatment facilities, may be locked as needed.
 - **Medical:** Report to supervisor for orders. Full suit sensors heavily advised. EVA suits recommended for emergency responders, functioning internals and PPE heavily advised.
 - **Engineering:** Standard practice.
 - **ROE:** Engage with minimal force; prioritize de-escalation whenever possible.
 
-## Code Yellow {#code-yellow}
+## Code Yellow
 
-<p class="alert-description" style="color: #ffeb3b;">Elevated alert status. There is a major issue with the atmospheric system, the station has suffered/is about to suffer significant damage, or there is another significant engineering emergency.</p>
+<span class="alert-description" style="color: #ffff00;">Elevated alert status. There is a major issue with the atmospheric system, the station has suffered/is about to suffer significant damage, or there is another significant engineering emergency.</span>
 
 - **COC:** CO, Chief Engineer, Engineering Personnel, Department Heads, Supervisory Roles
 - **Armory Policy:** Issuing of lethal weapons disadvised. EVA protection heavily advised for all personnel.
@@ -64,21 +64,21 @@ On Delta-V, there are some restrictions on when certain alert levels can be used
 - **Engineering:** EVA suits heavily advised for engineers. Distribute emergency internals to crew. Propose evacuation if damage is irreparable or sufficiently hazardous.
 - **ROE:** Engage with minimal force; prioritize de-escalation whenever possible.
 
-## Code White {#code-white}
+## Code White
 
-<p class="alert-description" style="color: #ffffff; background-color: #333; padding: 8px;">Elevated alert status. The station is suffering dangerously high levels of glimmer, there are several active psionic threats, or there is another significant epistemic emergency.</p>
+<span class="alert-description" style="color: #f6ccf6;">Elevated alert status. The station is suffering dangerously high levels of spectral activity, there are several active paranormal threats, or there is another significant interdimensional emergency.</span>
 
-- **COC:** CO, Mystagogue, Chaplain and Psionic Mantis, Epistemics Personnel, Department Heads, Supervisory Roles
-- **Armory Policy:** Open carry of weaponry permitted for authorised entities. Standard stab- and bullet-resistant equipment recommended for Security personnel. Psionic insulation recommended for all personnel.
-- **Discipline:** Report to supervisor for orders. Security and engineering should seek to aid epistemics staff in shutting off glimmer probers, and propose evacuation if glimmer spiral is unrecoverable.
+- **COC:** CO, Research Director, Chaplain, Science Personnel, Department Heads, Supervisory Roles
+- **Armory Policy:** Open carry of weaponry permitted for authorised entities. Standard stab- and bullet-resistant equipment recommended for Security personnel.
+- **Discipline:** Report to supervisor for orders. Security and engineering should seek to aid Science staff in containing supernatural threats.
 - **Secure Areas:** Secure areas unlocked and accessible to all authorized personnel, unless affected by a known threat. High Security Areas and areas with an expectation of privacy, such as bedrooms, dorms, or medical treatment facilities, may be locked as needed.
-- **Medical:** Full suit sensors heavily advised. Prepare for increased incidents of burn and brain damage.
-- **Engineering:** EVA suits heavily advised for engineers. Distribute emergency internals to crew. Prepare for detonation of probers.
-- **ROE:** Engage with minimal force required; ROE on mindbreaking is lifted and may be performed by the Psionic Mantis or Mystagogue at their discretion.
+- **Medical:** Full suit sensors heavily advised.
+- **Engineering:** EVA suits heavily advised for engineers. Distribute emergency internals to crew.
+- **ROE:** Engage with minimal force required; prioritize de-escalation whenever possible.
 
-## Code Gamma {#code-gamma}
+## Code Gamma
 
-<p class="alert-description" style="color: #db7093;">Emergency alert status. Central Command has called the Gamma Alert; the Station is on its last legs, almost everyone is dead, or there is another existential crisis affecting the station.</p>
+<span class="alert-description" style="color: #db7093;">Emergency alert status. Central Command has called the Gamma Alert; the Station is on its last legs, almost everyone is dead, or there is another existential crisis affecting the station.</span>
 
 - **COC:** CO, Security Personnel, Department Heads, Supervisory Roles
 - **Armory Policy:** Issuing of lethal weapons heavily recommended. Body armour and helmets mandatory for Security personnel, permitted for distribution to authorised personnel. EVA protection heavily advised for all personnel.
@@ -88,25 +88,13 @@ On Delta-V, there are some restrictions on when certain alert levels can be used
 - **Engineering:** EVA suits heavily advised for engineers. Distribute emergency internals to crew.
 - **ROE:** Engage with adequate force to neutralise threats. Lethal force authorised at the discretion of Security personnel, in self-defence, or to effect arrests.
 
-## Code Delta {#code-delta}
+## Code Delta
 
-<p class="alert-description" style="color: #8b0000;">Emergency alert status. The nuclear destruction mechanism has been engaged and station destruction is imminent. All crew aboard the station must attempt to reverse the self-destruct mechanism, if engaged in error. Should reversal prove impossible, evacuate as applicable.</p>
+<span class="alert-description" style="color: #8b0000;">Emergency alert status. The nuclear destruction mechanism has been engaged and station destruction is imminent. All crew aboard the station must attempt to reverse the self-destruct mechanism, if engaged in error. Should reversal prove impossible, evacuate as applicable.</span>
 
 - **COC:** CO, Security Personnel, Department Heads, Supervisory Roles
 - **Armory Policy:** Issuing of lethal weapons heavily recommended. Body armour and helmets mandatory for Security personnel, permitted for distribution to authorised personnel. EVA protection heavily advised for all personnel.
 - **Discipline:** Emergency personnel must expend all efforts to prevent station destruction if engaged in error. Security and Command personnel are to oversee the evacuation of personnel and safe scuttling of the station. Martial law is in effect. Arrests, searches, and raids may be performed at the discretion of security personnel and without a warrant. Threats neutralised by lethal force may be placed in Preservative Stasis until the station alert level is reduced. Security is fully authorised to take whatever actions deemed necessary to neutralise or repel station threats.
-- **Secure Areas:** All secure areas and HSAs should remain locked.
-- **Medical:** Full suit sensors heavily advised. EVA suits and functioning internals heavily advised for emergency responders.
-- **Engineering:** EVA suits heavily advised for engineers. Distribute emergency internals to crew.
-- **ROE:** Engage with adequate force to neutralise threats. Lethal force authorised at the discretion of Security personnel, in self-defence, or to effect arrests.
-
-## Code Octarine {#code-octarine}
-
-<p class="alert-description" style="color: #9d4edd;">Emergency alert status. The station's deep-spectrum sensors have identified critical Λ-CDM levels. The station and all surrounding space is under threat of an impending existential noospheric-to-real threat.</p>
-
-- **COC:** CO, Mystagogue, Chaplain and Psionic Mantis, Security Personnel, Department Heads, Supervisory Roles
-- **Armory Policy:** Issuing of nonlethal crowd control gear mandatory, lethal weapons permitted for self-defense. Body armour and helmets mandatory for Security personnel, permitted for distribution to authorised personnel. EVA protection strongly advised for all personnel.
-- **Discipline:** Emergency personnel must expend all efforts to prevent station destruction. Arrests, searches, and raids may be performed at the discretion of security personnel and without a warrant. Where possible, threats should be subdued nonlethally and brought to the Chaplain or Mystagogue for processing. Threats neutralised by lethal force may be placed in Preservative Stasis until the station alert level is reduced.
 - **Secure Areas:** All secure areas and HSAs should remain locked.
 - **Medical:** Full suit sensors heavily advised. EVA suits and functioning internals heavily advised for emergency responders.
 - **Engineering:** EVA suits heavily advised for engineers. Distribute emergency internals to crew.
