@@ -45,18 +45,20 @@ nav:
       - Game Rules: rules/game-rules.md
       - Role Guidelines: rules/role-rules.md
       - Silicon Rules: rules/silicon-rules.md
-      - Alert Procedures: rules/alert-procedure.md
-  - SOP:
+  - SOP & Space Law:
       - Overview: sop/index.md
-      - Crimes & Sentencing: sop/crimes.md
-      - Controlled Items: sop/controlled-items.md
-      - Command: sop/command.md
-      - Security: sop/security.md
-      - Medical: sop/medical.md
-      - Epistemics: sop/epistemics.md
-      - Logistics: sop/logistics.md
-      - Service: sop/service.md
-      - Judicial: sop/judicial.md
+      - Alert Procedure: rules/alert-procedure.md
+      - Space Law:
+          - Crimes & Sentencing: sop/crimes.md
+          - Controlled Items: sop/controlled-items.md
+      - Standard Operating Procedure:
+          - Command: sop/command.md
+          - Security: sop/security.md
+          - Medical: sop/medical.md
+          - Epistemics: sop/epistemics.md
+          - Logistics: sop/logistics.md
+          - Service: sop/service.md
+          - Judicial: sop/judicial.md
 
 markdown_extensions:
   - admonition
