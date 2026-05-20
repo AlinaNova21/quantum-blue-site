@@ -27,26 +27,26 @@ The fundamental rules that govern behavior on the Quantum Blue server.
 </div>
 <div class="dept-card" markdown="1">
 <h3><a href="rules/role-rules/">👮 Role Guidelines</a></h3>
-<p>Special rules for command, security, and antagonist roles</p>
+<p>Special rules for command, security, AI, and antagonist roles</p>
 </div>
 <div class="dept-card" markdown="1">
 <h3><a href="rules/silicon-rules/">🤖 Silicon Rules</a></h3>
 <p>Comprehensive rules for AI and cyborg players</p>
 </div>
-<div class="dept-card" markdown="1">
-<h3><a href="rules/alert-procedure/">🚨 Alert Procedures</a></h3>
-<p>Station alert levels and emergency procedures</p>
-</div>
 </div>
 
-## Standard Operating Procedures
+## SOP & Space Law
 
-Detailed procedures for crew rights, responsibilities, and departmental operations.
+Detailed procedures for crew rights, responsibilities, departmental operations, and station law.
 
 <div class="department-grid" markdown="1">
 <div class="dept-card" markdown="1">
 <h3><a href="sop/">📖 SOP Overview</a></h3>
 <p>Rights, definitions, and general procedures</p>
+</div>
+<div class="dept-card" markdown="1">
+<h3><a href="rules/alert-procedure/">🚨 Alert Procedure</a></h3>
+<p>Station alert levels and emergency procedures</p>
 </div>
 <div class="dept-card" markdown="1">
 <h3><a href="sop/crimes/">⚖️ Crimes & Sentencing</a></h3>
