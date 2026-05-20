@@ -11,7 +11,7 @@ For clarity, here's a list of definitions for recurring terms in these documents
 - **Prisoner:** Any sophont that has been legally sentenced and is serving time.
 - **Death:** The cessation of neural function of a sophont.
 
-## Article of Rights {#rights}
+## Article of Rights
 
 Any sophont is entitled to the following rights:
 
@@ -20,7 +20,7 @@ Any sophont is entitled to the following rights:
 3. **Freedom of movement:** If there is not a risk of harm to self or others, or of escape from legal detention, a sophont should not be restrained.
 4. **Right to legal counsel:** Any sophont may not be denied the right to legal counsel, provided one is available, even in custody.
 
-## Hiring Procedure {#hiring}
+## Hiring Procedure
 
 The Head of Personnel is normally in charge of hiring new staff and transferring current staff from one department to another, if necessary. Should the Head of Personnel be busy or unavailable, each department head is expected to respond to requests for a new position within their department, and cooperate with other heads regarding transfers.
 
