@@ -49,15 +49,11 @@ Detailed procedures for crew rights, responsibilities, departmental operations, 
 <p>Station alert levels and emergency procedures</p>
 </div>
 <div class="dept-card" markdown="1">
-<h3><a href="sop/crimes/">⚖️ Crimes & Sentencing</a></h3>
-<p>Complete guide to station law and penalties</p>
+<h3><a href="sop/crimes/">⚖️ Space Law</a></h3>
+<p>Crimes, sentencing, and controlled items</p>
 </div>
 <div class="dept-card" markdown="1">
-<h3><a href="sop/controlled-items/">🔒 Controlled Items</a></h3>
-<p>Restricted weapons, chemicals, and technology</p>
-</div>
-<div class="dept-card" markdown="1">
-<h3><a href="sop/security/">🛡️ Security Procedures</a></h3>
-<p>Arrest, brig operations, and law enforcement</p>
+<h3><a href="sop/command/">🏢 Standard Operating Procedure</a></h3>
+<p>Command, security, medical, and other department procedures</p>
 </div>
 </div>

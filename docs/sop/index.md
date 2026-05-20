@@ -2,8 +2,6 @@
 
 Standard Operating Procedure, or SOP, defines the rights, responsibilities and restrictions placed upon the working crew and each department.
 
-## Definitions {#definitions}
-
 For clarity, here's a list of definitions for recurring terms in these documents:
 
 - **Sophont:** Any individual entity acting through a brain, positronic or organic, that is capable of self-expression and introspection via structured language or gestures. Cyborgs and Station AIs are exceptions.
@@ -29,22 +27,3 @@ The Head of Personnel is normally in charge of hiring new staff and transferring
 Each department head is also responsible for promoting acting personnel to critical positions where officially appointed assignees aren't present, and demoted once one does arrive.
 
 Department heads also reserve the right to demote or fire anyone in their staff where not doing so would hinder the department's ability to function, or in cases where the individual fails to act out their duties.
-
-## Quick Reference {#quick-reference}
-
-- [Crimes and Sentencing Guide](crimes.md) - Complete list of all crimes and their sentences
-- [Controlled Items](controlled-items.md) - Weapons, chemicals, and technology restrictions
-- [Security Procedures](security.md) - Arrest procedures, brig operations, and rules of engagement
-
-## Departmental Procedures {#departments}
-
-- [Command](command.md) - Leadership authority, succession, and hiring procedures
-- [Security](security.md) - Arrest procedures, brig operations, and rules of engagement
-- [Medical](medical.md) - Chemical storage, surgery protocols, and patient care
-- [Epistemics](epistemics.md) - Experimentation guidelines and artifact handling
-- [Logistics](logistics.md) - Cargo ordering and access requirements
-- [Service](service.md) - Food service, botany, bar, and janitorial duties
-
-## Legal System {#judicial}
-
-- [Judicial Procedures](judicial.md) - Court procedures, trials, and legal documents
